@@ -123,7 +123,7 @@ Open the project folder and run:
 
 ### 📸 Screenshots
 
-- Home Page :![Home Page](images/screenshot/home.png)
+- Home Page :![Home Page](image/screenshot/home.png)
 
 - Product Section :![Product Page](images/screenshot/product.png)
 
