@@ -129,9 +129,6 @@ Open the project folder and run:
 
 - About Page :![About Page](image/screenshot/about.png)
 
-- Mobile View :
-  ![mobile Page](image/screenshot/mobile.jpeg)
-
 ---
 
 ### 🔮 Future Improvements
