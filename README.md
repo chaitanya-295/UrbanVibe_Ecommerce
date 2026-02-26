@@ -125,11 +125,11 @@ Open the project folder and run:
 
 - Home Page :![Home Page](image/screenshot/home.png)
 
-- Product Section :![Product Page](images/screenshot/product.png)
+- Product Section :![Product Page](image/screenshot/product.png)
 
-- About Page :![About Page](images/screenshot/about.png)
+- About Page :![About Page](image/screenshot/about.png)
 
-- Mobile View :![mobile Page](images/screenshot/mobile.jpeg)
+- Mobile View :![mobile Page](image/screenshot/mobile.jpeg)
 
 ---
 
