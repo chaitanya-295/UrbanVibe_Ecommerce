@@ -209,8 +209,22 @@ hr {
     }
 }
 
+.navbar-toggler {
+    background-color: transparent !important;
+    border: none;
+}
+
 .navbar-toggler:focus {
     box-shadow: none;
+    background-color: transparent !important;
+}
+
+.navbar-toggler:active {
+    background-color: transparent !important;
+}
+
+.navbar-toggler i {
+    color: #222 !important;
 }
 
 /* Home Section Styling */
